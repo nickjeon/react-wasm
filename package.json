@@ -21,6 +21,6 @@
     "as-bind": "^0.8.2",
     "assemblyscript": "^0.21.6",
     "typescript": "^4.6.4",
-    "vite": "^3.1.0"
+    "vite": "^3.2.7"
   }
 }
